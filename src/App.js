@@ -4,6 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <h3>Counter</h3>
       <Counter />
     </div>
   );
